@@ -1,10 +1,13 @@
 # K8S Cluster Playground
 
-Important links:
+Reference links (as of kubernetes 1.16):
 [Kubernetes object management concepts](https://kubernetes.io/docs/concepts/overview/working-with-objects/object-management/)
 [kubectl book](https://kubectl.docs.kubernetes.io/)
-[API Conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md#spec-and-status)
+[API Conventions](https://github.com/kubernetes/community/blob/e24c344aa32cdf87b4703c52e9af799795a54b37/contributors/devel/sig-architecture/api-conventions.md#spec-and-status)
 [Generated docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.16/#pod-v1-core)
+Tutorials:
+[kubernetes.io tutorials](https://kubernetes.io/docs/tutorials/)
+[getting started with kubernetes (digital ocean)](https://www.digitalocean.com/community/meetup_kits/getting-started-with-containers-and-kubernetes-a-digitalocean-workshop-kit)
 
 ## Setup:
 
